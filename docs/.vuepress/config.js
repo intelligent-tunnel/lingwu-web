@@ -7,7 +7,7 @@ module.exports = {
   theme: 'vdoing', // 使用依赖包主题
   // theme: require.resolve('../../vdoing'), // 使用本地主题 (先将vdoing主题文件下载到本地：https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-  title: "AIGC产品行业解决方案",
+  title: "领悟AI",
   description: '为简化AI使用而生',
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
@@ -23,44 +23,44 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      {
-        text: '使用入口', link: '/pages/a20ce8/', items: [
-          { text: '使用入口', link: '/pages/a20ce8/' },
-        //   { text: '首页配置', link: '/pages/f14bdb/' },
-        //   { text: 'front matter配置', link: '/pages/3216b0/' },
-        //   { text: '目录页配置', link: '/pages/54651a/' },
-        //   { text: '添加摘要', link: '/pages/1cc523/' },
-        //   { text: '修改主题颜色和样式', link: '/pages/f51918/' },
-        //   { text: '评论栏', link: '/pages/ce175c/' },
-        ]
-      },
-      {
-        text: 'AI知识库', link: '/pages/a2f161/', items: [
-          { text: 'AIGC发展历程', link: '/pages/52d5c3/' },
-          { text: 'GPTs基本介绍', link: '/pages/a2f161/' },
-          { text: 'ChatGPT快速入门', link: '/pages/793dcb/' },
-        //   { text: '目录结构', link: '/pages/2f674a/' },
-        //   { text: '核心配置和约定', link: '/pages/33d574/' },
-        //   { text: '自动生成front matter', link: '/pages/088c16/' },
-        //   { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
-        //   { text: 'Markdown 中使用组件', link: '/pages/197691/' },
-          {
-            text: '相关文章', items: [
-              { text: 'Meta开源大模型Llama2部署指南', link: '/pages/8dfab5/' },
-            //   { text: '如何让你的笔记更有表现力', link: '/pages/dd027d/' },
-            //   { text: '批量操作front matter工具', link: '/pages/2b8e22/' },
-            //   { text: '部署', link: '/pages/0fc1d2/' },
-            //   { text: '关于写文章和H1标题', link: '/pages/9ae0bd/' },
-            //   { text: '关于博客搭建与管理', link: '/pages/26997d/' },
-            //   { text: '在线编辑和新增文章的方法', link: '/pages/c5a54d/' },
-            ]
-          }
-        ]
-      },
-      { text: '资源', link: '/pages/db78e2/' },
-      { text: '案例', link: '/pages/5d571c/' },
-      { text: '问答', link: '/pages/9cc27d/' },
-      { text: '赞助', link: '/pages/1b12ed/' },
+      { text: '使用入口', link: '/pages/a20ce8/' },
+      // {
+      //   text: '使用入口', link: '/pages/a20ce8/', items: [
+      //     { text: '使用入口', link: '/pages/a20ce8/' },
+      //   //   { text: '首页配置', link: '/pages/f14bdb/' },
+      //   //   { text: 'front matter配置', link: '/pages/3216b0/' },
+      //   //   { text: '目录页配置', link: '/pages/54651a/' },
+      //   //   { text: '添加摘要', link: '/pages/1cc523/' },
+      //   //   { text: '修改主题颜色和样式', link: '/pages/f51918/' },
+      //   //   { text: '评论栏', link: '/pages/ce175c/' },
+      //   ]
+      // },
+      // {
+      //   text: 'AI知识库', link: '/pages/a2f161/', items: [
+      //     { text: 'AIGC发展历程', link: '/pages/52d5c3/' },
+      //     { text: 'GPTs基本介绍', link: '/pages/a2f161/' },
+      //     { text: 'ChatGPT快速入门', link: '/pages/793dcb/' },
+      //   //   { text: '目录结构', link: '/pages/2f674a/' },
+      //   //   { text: '核心配置和约定', link: '/pages/33d574/' },
+      //   //   { text: '自动生成front matter', link: '/pages/088c16/' },
+      //   //   { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
+      //   //   { text: 'Markdown 中使用组件', link: '/pages/197691/' },
+      //     {
+      //       text: '相关文章', items: [
+      //         { text: 'Meta开源大模型Llama2部署指南', link: '/pages/8dfab5/' },
+      //       //   { text: '如何让你的笔记更有表现力', link: '/pages/dd027d/' },
+      //       //   { text: '批量操作front matter工具', link: '/pages/2b8e22/' },
+      //       //   { text: '部署', link: '/pages/0fc1d2/' },
+      //       //   { text: '关于写文章和H1标题', link: '/pages/9ae0bd/' },
+      //       //   { text: '关于博客搭建与管理', link: '/pages/26997d/' },
+      //       //   { text: '在线编辑和新增文章的方法', link: '/pages/c5a54d/' },
+      //       ]
+      //     }
+      //   ]
+      // },
+      // { text: '案例', link: '/pages/5d571c/' },
+      // { text: '问答', link: '/pages/9cc27d/' },
+      // { text: '赞助', link: '/pages/1b12ed/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
@@ -95,8 +95,8 @@ module.exports = {
     // archive: false, // 是否打开归档功能，默认true。 如打开，会做的事情有：1.自动生成归档页面（在@pages文件夹）。如关闭，则反之。
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, href: String}
-      name: 'AIGC产品行业解决方案', // 必需
-      href: 'https://01aigc.com' // 可选的
+      name: '领悟AI', // 必需
+      href: 'https://chatgpt.sh' // 可选的
     },
     // social: { // 社交图标，显示于博主信息栏和页脚栏
     //   // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加

@@ -1,17 +1,17 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: AIGC产品行业解决方案
+heroText: chatgpt.sh - 领悟AI
 tagline: 🚀为简化AI使用而生
 actionText: 开始使用 →
-actionLink: /pages/a2f161/
+actionLink: https://chatgpt.sh
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 免费使用
-    details: 提供免费的AI助手服务，让你的生活更加便捷。您甚至不需要注册账号。
-  - title: 灵活集成
-    details: 您可以将AI助手集成到您的网站或者APP中，让您的用户更加便捷的使用您的产品。
+    details: 提供免费的GPT3.5服务，让你的工作和学习更加便捷
+  - title: 便于记忆
+    details: 域名chatgpt.sh，是一个易于记忆的域名，可以帮助您快速记忆和输入我们的网址
   - title: 丰富功能
     details: 完全还原 GPT 官网，无限使用 GPT-4 PLUS的联网，插件，绘图等官方功能
 
