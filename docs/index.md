@@ -19,7 +19,7 @@ features: # 可选的
 postList: none
 ---
 <p align="center">
-  <a class="become-sponsor" href="/pages/1b12ed/">支持这个项目</a>
+  <a class="become-sponsor" href="/pages/a20ce8">支持这个项目</a>
 </p>
 
 <style>
@@ -123,7 +123,7 @@ postList: none
 
 ## ⚡ 反馈与交流
 
-在使用过程中有任何问题和想法，请通过 [关于我们](/pages/d0d7eb/) 联系客服处理。
+在使用过程中有任何问题和想法，请通过 [使用入口](/pages/a20ce8) 联系专属客服处理。
 
 <!-- 或者加入我们的交流群：
 
