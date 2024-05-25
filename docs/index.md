@@ -9,7 +9,7 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 
 features: # 可选的
   - title: 免费使用
-    details: 无需登录，提供免费的GPT4-o服务，让你的工作和学习更加便捷
+    details: 无需登录，提供免费的GPT4o服务，让你的工作和学习更加便捷
   - title: 便于记忆
     details: 域名www.chatgpt.sh，是一个易于记忆的域名，可以帮助您快速记忆和输入我们的网址
   - title: 功能完善
@@ -19,7 +19,7 @@ features: # 可选的
 postList: none
 ---
 <p align="center">
-  <a class="become-sponsor" href="/pages/a20ce8">支持这个项目</a>
+  <a class="become-sponsor" href="/pages/a20ce8">了解这个项目</a>
 </p>
 
 <style>
