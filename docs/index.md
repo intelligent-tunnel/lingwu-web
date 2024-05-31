@@ -20,6 +20,7 @@ postList: none
 ---
 <p align="center">
   <a class="become-sponsor" href="/pages/overview">了解这个项目</a>
+  <button class="action-button" onclick="window.location.href='https://www.chatgpt.sh'">立即使用</button>
 </p>
 
 <style>
@@ -39,7 +40,7 @@ postList: none
 .become-sponsor {
   padding: 8px 20px;
   display: inline-block;
-  color: #ffd733;
+  color: #af60ff;
   border-radius: 30px;
   box-sizing: border-box;
   border: 1px solid #af60ff;
