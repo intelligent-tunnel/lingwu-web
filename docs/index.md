@@ -29,6 +29,6 @@ postList: none
   color: #11a8cd;
   border-radius: 30px;
   box-sizing: border-box;
-  border: 1px solid #AF60FF;
+  border: 1px solid #11a8cd;
 }
 </style>
