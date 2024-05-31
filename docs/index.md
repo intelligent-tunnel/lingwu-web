@@ -23,23 +23,12 @@ postList: none
 </p>
 
 <style>
-.action-button {
-  background: #af60ff;
-  color: #ffd733; /* 黄色文本 */
-  padding: 10px 20px;
-  border-radius: 30px;
-  border: none;
-  cursor: pointer;
-  font-size: 18px;
-  font-weight: bold;
-}
-
 .become-sponsor {
   padding: 8px 20px;
   display: inline-block;
-  color: #af60ff;
+  color: #11a8cd;
   border-radius: 30px;
   box-sizing: border-box;
-  border: 1px solid #af60ff;
+  border: 1px solid #AF60FF;
 }
 </style>
