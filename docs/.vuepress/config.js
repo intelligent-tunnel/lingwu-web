@@ -24,7 +24,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '基本介绍', link: '/pages/overview/' },
-      { text: '疑问解答', link: '/pages/about/' },
+      { text: '常见问题', link: '/pages/about/' },
       { text: 'GitHub', link: 'https://github.com/intelligent-tunnel/ChatGPT-zh-CN' },
       // {
       //   text: '使用入口', link: '/pages/a20ce8/', items: [
