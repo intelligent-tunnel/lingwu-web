@@ -1,19 +1,19 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: ChatGPT中文站
-tagline: 浏览器输入 www.chatgpt.sh 支持免注册使用GPT-4o
-actionText: ☄️ 立即使用
+heroText: ChatGPT 中文站
+tagline: 降低ChatGPT 官网使用门槛，帮助更多用户使用 ChatGPT
+actionText: 🟢立即使用
 actionLink: https://www.chatgpt.sh
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 免费使用
-    details: 无需登录，提供免费的GPT4o服务，让你的工作和学习更加便捷
+    details: 1 分钟内快速使用上 ChatGPT 免费且无需注册
   - title: 便于记忆
     details: 域名www.chatgpt.sh，是一个易于记忆的域名，可以帮助您快速记忆和输入我们的网址
   - title: 功能完善
-    details: 完全还原 GPT 官网，无限使用 GPT-4 PLUS的联网，插件，绘图等官方功能
+    details: 完全还原 GPT 官网，支持使用 GPT-4 PLUS的联网，插件，绘图等官方功能
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
