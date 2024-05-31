@@ -20,18 +20,15 @@ postList: none
 ---
 <p align="center">
   <a class="become-sponsor" href="/pages/overview">了解这个项目</a>
-  <button class="action-button" onclick="window.location.href='https://www.chatgpt.sh'">立即使用</button>
 </p>
 
 <style>
 .action-button {
-  background: #af60ff; /*  紫色背景 */
-  color: #ffd733; /* 淡黄色文本 */
+  background: #af60ff;
+  color: #ffd733; /* 黄色文本 */
   padding: 10px 20px;
   border-radius: 30px;
-  border: 3px solid; /* 设置边框宽度 */
-  border-image-slice: 1; /* 边框图片切片 */
-  border-image-source: #af60ff; /* 边框渐变 */
+  border: none;
   cursor: pointer;
   font-size: 18px;
   font-weight: bold;
