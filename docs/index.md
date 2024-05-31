@@ -25,10 +25,12 @@ postList: none
 <style>
 .action-button {
   background: linear-gradient(to right, #a18cd1, #fbc2eb); /* 渐变背景 */
-  color: #ffff00; /* 黄色文本 */
+  color: #f5f5dc; /* 淡黄色文本 */
   padding: 10px 20px;
   border-radius: 30px;
-  border: none;
+  border: 3px solid; /* 设置边框宽度 */
+  border-image-slice: 1; /* 边框图片切片 */
+  border-image-source: linear-gradient(to right, #a18cd1, #fbc2eb); /* 边框渐变 */
   cursor: pointer;
   font-size: 18px;
   font-weight: bold;
@@ -37,9 +39,9 @@ postList: none
 .become-sponsor {
   padding: 8px 20px;
   display: inline-block;
-  color: #11a8cd;
+  color: #f5f5dc;
   border-radius: 30px;
   box-sizing: border-box;
-  border: 1px solid #11a8cd;
+  border: 1px solid #f5f5dc;
 }
 </style>
