@@ -23,9 +23,9 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '基本介绍', link: '/pages/overview/' },
       { text: '常见问题', link: '/pages/about/' },
       { text: 'GPTs全球排行榜', link: '/pages/TOP500/' },
+    //   { text: '发版记录', link: '/pages/release/' },
       { text: 'GitHub', link: 'https://github.com/intelligent-tunnel/ChatGPT-zh-CN' },
       // {
       //   text: '使用入口', link: '/pages/a20ce8/', items: [
