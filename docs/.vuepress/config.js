@@ -25,7 +25,12 @@ module.exports = {
       { text: '首页', link: '/' },
       { text: '基本介绍', link: '/pages/overview/' },
       { text: '常见问题', link: '/pages/about/' },
-      { text: 'GPTs商店', link: '/pages/top500/' },
+      { text: 'GPTs商店', link: '/pages/1/' , items: [
+            { text: '2', link: '/pages/2/' },
+            { text: '3', link: '/pages/3/' },
+            { text: '4', link: '/pages/4/' },
+        ]
+      },
       { text: 'GitHub', link: 'https://github.com/intelligent-tunnel/ChatGPT-zh-CN' },
       // {
       //   text: '使用入口', link: '/pages/a20ce8/', items: [
