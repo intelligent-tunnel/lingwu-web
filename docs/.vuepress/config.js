@@ -27,43 +27,6 @@ module.exports = {
       { text: 'GPTs全球排行榜', link: '/pages/TOP500/' },
     //   { text: '发版记录', link: '/pages/release/' },
       { text: 'GitHub', link: 'https://github.com/intelligent-tunnel/ChatGPT-zh-CN' },
-      // {
-      //   text: '使用入口', link: '/pages/a20ce8/', items: [
-      //     { text: '使用入口', link: '/pages/a20ce8/' },
-      //   //   { text: '首页配置', link: '/pages/f14bdb/' },
-      //   //   { text: 'front matter配置', link: '/pages/3216b0/' },
-      //   //   { text: '目录页配置', link: '/pages/54651a/' },
-      //   //   { text: '添加摘要', link: '/pages/1cc523/' },
-      //   //   { text: '修改主题颜色和样式', link: '/pages/f51918/' },
-      //   //   { text: '评论栏', link: '/pages/ce175c/' },
-      //   ]
-      // },
-      // {
-      //   text: 'AI知识库', link: '/pages/a2f161/', items: [
-      //     { text: 'AIGC发展历程', link: '/pages/52d5c3/' },
-      //     { text: 'GPTs基本介绍', link: '/pages/a2f161/' },
-      //     { text: 'ChatGPT快速入门', link: '/pages/793dcb/' },
-      //   //   { text: '目录结构', link: '/pages/2f674a/' },
-      //   //   { text: '核心配置和约定', link: '/pages/33d574/' },
-      //   //   { text: '自动生成front matter', link: '/pages/088c16/' },
-      //   //   { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
-      //   //   { text: 'Markdown 中使用组件', link: '/pages/197691/' },
-      //     {
-      //       text: '相关文章', items: [
-      //         { text: 'Meta开源大模型Llama2部署指南', link: '/pages/8dfab5/' },
-      //       //   { text: '如何让你的笔记更有表现力', link: '/pages/dd027d/' },
-      //       //   { text: '批量操作front matter工具', link: '/pages/2b8e22/' },
-      //       //   { text: '部署', link: '/pages/0fc1d2/' },
-      //       //   { text: '关于写文章和H1标题', link: '/pages/9ae0bd/' },
-      //       //   { text: '关于博客搭建与管理', link: '/pages/26997d/' },
-      //       //   { text: '在线编辑和新增文章的方法', link: '/pages/c5a54d/' },
-      //       ]
-      //     }
-      //   ]
-      // },
-      // { text: '案例', link: '/pages/5d571c/' },
-      // { text: '问答', link: '/pages/9cc27d/' },
-      // { text: '赞助', link: '/pages/1b12ed/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
