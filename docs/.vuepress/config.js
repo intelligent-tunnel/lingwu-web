@@ -25,7 +25,7 @@ module.exports = {
       { text: '首页', link: '/' },
       { text: '常见问题', link: '/pages/about/' },
       { text: 'GPTs全球排行榜', link: '/pages/TOP500/' },
-      { text: '使用教程', link: '/pages/ backup/' },
+      { text: '使用教程', link: '/pages/backup/' },
       { text: '更新公告', link: '/pages/release/' },
       { text: 'GitHub', link: 'https://github.com/intelligent-tunnel/ChatGPT-zh-CN' },
     ],
