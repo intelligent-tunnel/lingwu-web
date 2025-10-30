@@ -4,14 +4,14 @@ heroImage: /img/logo.png
 heroText: ChatGPT 中文站
 tagline: 降低ChatGPT 官网使用门槛，帮助更多用户使用 ChatGPT
 actionText: 开始使用ChatGPT
-actionLink: https://www.chatgpt.sh/goto
+actionLink: https://www.ppdd.ai/goto
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 免费使用
     details: 1 分钟内快速使用上 ChatGPT 免费且无需注册
   - title: 便于记忆
-    details: 域名www.chatgpt.sh，是一个易于记忆的域名，可以帮助您快速记忆和输入我们的网址
+    details: 域名www.ppdd.ai，是一个易于记忆的域名，可以帮助您快速记忆和输入我们的网址
   - title: 功能完善
     details: 1:1 还原 ChatGPT 官网，支持使用 GPT-4 PLUS的联网，插件，绘图等官方功能
 
@@ -19,7 +19,7 @@ features: # 可选的
 postList: none
 ---
 <p align="center">
-  <a class="become-sponsor" href="https://www.chatgpt.sh/">了解这个项目</a>
+  <a class="become-sponsor" href="https://www.ppdd.ai/">了解这个项目</a>
 </p>
 
 <style>

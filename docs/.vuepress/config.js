@@ -68,7 +68,7 @@ module.exports = {
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, href: String}
       name: 'ChatGPT中文站', // 必需
-      href: 'https://www.chatgpt.sh' // 可选的
+      href: 'https://www.ppdd.ai' // 可选的
     },
     // social: { // 社交图标，显示于博主信息栏和页脚栏
     //   // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
@@ -92,7 +92,7 @@ module.exports = {
     // },
     footer: { // 页脚信息
       createYear: 2023, // 博客创建年份
-      copyrightInfo: '<a href="https://www.chatgpt.sh/">ChatGPT CN</a>', // 博客版权信息，支持a标签
+      copyrightInfo: '<a href="https://www.ppdd.ai/">ChatGPT CN</a>', // 博客版权信息，支持a标签
       
     },
     htmlModules,
